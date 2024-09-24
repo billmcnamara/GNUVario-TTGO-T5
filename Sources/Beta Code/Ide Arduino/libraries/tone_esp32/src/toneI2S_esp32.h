@@ -206,7 +206,7 @@ uint8_t _tAC_volume[10] = { 4, 22, 44, 58, 66, 80, 100, 134, 200, 250 }; // Duty
 #endif //TONEI2S
 
 #else
-#error “This library only supports boards with ESP32 processor.”
+#error "This library only supports boards with ESP32 processor."
 #endif
 
 #endif
